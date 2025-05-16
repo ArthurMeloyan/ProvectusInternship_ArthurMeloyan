@@ -1,0 +1,9 @@
+transformers
+torch
+spacy
+sentence-transformers
+langchain
+chromadb
+langchain-huggingface
+langchain-chroma
+streamlit
