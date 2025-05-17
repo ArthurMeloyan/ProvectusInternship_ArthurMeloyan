@@ -7,3 +7,5 @@ chromadb
 langchain-huggingface
 langchain-chroma
 streamlit
+requests
+python-dotenv
