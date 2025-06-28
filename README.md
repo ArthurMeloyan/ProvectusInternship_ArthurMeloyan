@@ -1,6 +1,6 @@
 # Concert Tour Assistant
 
-**Private repository for Provectus Internship — Arthur Meloyan**
+
 
 ---
 
